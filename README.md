@@ -1,9 +1,6 @@
-# 🕵 SELFBOT-BY:MAX 🕵
+# 
 
-# 🇹🇭 Group Self bot 🇹🇭
-https://line.me/ti/g2/SIGRN7I2Z0
-
-#  🕵  SELFBOT-BY:MAX 🕵 PY3
+# 
 
 - `apt update`
 - `apt upgrade`
@@ -23,7 +20,7 @@ https://line.me/ti/g2/SIGRN7I2Z0
 - `pip3 install wikipedia`
 - `apt install git`
 
-#  🕵  SELFBOT-BY:MAX 🕵 PY2
+#  
 
 - `pkg install python2 -y`
 - `pkg install nano -y`
